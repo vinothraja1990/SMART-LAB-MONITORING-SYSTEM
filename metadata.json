@@ -1,0 +1,6 @@
+{
+  "name": "Smart Lab Management",
+  "description": "Smart Lab Management & Monitoring System for Swami Dayananda College of Arts & Science - Featuring real-time seat mapping, student attendance, monitoring, analytics, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
